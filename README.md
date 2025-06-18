@@ -1,11 +1,11 @@
 
-Airbnb NYC EDA Project
+**Airbnb NYC EDA Project**
 
 Overview
 
 This project performs an Exploratory Data Analysis (EDA) on the Airbnb NYC dataset to uncover insights into pricing, room types, location distributions, and host behaviors. The dataset contains over 48,000 listings with a mix of numerical and categorical features.
 
-Problem Statement
+**Problem Statement**
 
 Airbnb hosts and users generate large volumes of data daily. Understanding this data is essential for improving customer experience, optimizing prices, and guiding business decisions. This project aims to analyze the Airbnb listings in New York City to identify:
 
@@ -35,7 +35,7 @@ Data Visualization: seaborn, matplotlib
 
 Environment: Jupyter Notebook
 
-Steps Performed
+**Steps Performed**
 
 1. Data Loading and Inspection
 
@@ -67,7 +67,7 @@ Price vs Availability
 
 Host activity
 
-Key Insights
+**Key Insights**
 
 Most listings are priced between $50–$200
 
@@ -79,7 +79,7 @@ Some hosts control hundreds of listings
 
 No strong relationship between price and availability
 
-Visualizations Summary
+**Visualizations Summary**
 
 Histogram – Airbnb Price Distribution
 
@@ -97,7 +97,7 @@ Bar Chart – Top 10 Hosts by Listings
 
 Bar Chart – Average Price by Neighbourhood Group
 
-Conclusion
+**Conclusion**
 
 This EDA helped identify patterns in Airbnb NYC data that can support pricing strategies, platform growth, and customer behavior understanding. Future work could involve predictive modeling and interactive dashboards.
 
